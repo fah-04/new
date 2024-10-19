@@ -6,3 +6,4 @@ pyngrok
 Pillow
 yt-dlp
 ffmpeg-python
+gunicorn
