@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+deoldify
+torch
+pyngrok
+Pillow
+yt-dlp
+ffmpeg-python
